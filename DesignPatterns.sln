@@ -35,6 +35,30 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-FlyweightPattern", "src\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-ProxyPattern", "src\02-StructureMode\07-ProxyPattern\07-ProxyPattern.csproj", "{FE38249C-8A39-40A3-AFE9-0336667E689C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{2D6435F2-4355-4F76-9CAA-7C3C47AD0CB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-CreationMode", "01-CreationMode", "{11452670-9D24-4EBA-AAAA-E9691BC9D3B7}"
+	ProjectSection(SolutionItems) = preProject
+		doc\01-CreationMode\01-FactoryMethodPattern.md = doc\01-CreationMode\01-FactoryMethodPattern.md
+		doc\01-CreationMode\02-AbstractFactoryPattern.md = doc\01-CreationMode\02-AbstractFactoryPattern.md
+		doc\01-CreationMode\03-SingletonPattern.md = doc\01-CreationMode\03-SingletonPattern.md
+		doc\01-CreationMode\04-BuilderPattern.md = doc\01-CreationMode\04-BuilderPattern.md
+		doc\01-CreationMode\05-ProtoTypePattern.md = doc\01-CreationMode\05-ProtoTypePattern.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-StructureMode", "02-StructureMode", "{4F734F9B-A1D8-4C84-BF1A-1F861370E994}"
+	ProjectSection(SolutionItems) = preProject
+		doc\02-StructureMode\01-AdapterPattern.md = doc\02-StructureMode\01-AdapterPattern.md
+		doc\02-StructureMode\02-BridgePattern.md = doc\02-StructureMode\02-BridgePattern.md
+		doc\02-StructureMode\03-CompositePattern.md = doc\02-StructureMode\03-CompositePattern.md
+		doc\02-StructureMode\04-DecoratorPattern.md = doc\02-StructureMode\04-DecoratorPattern.md
+		doc\02-StructureMode\05-FacadePattern.md = doc\02-StructureMode\05-FacadePattern.md
+		doc\02-StructureMode\06-FlyweightPattern.md = doc\02-StructureMode\06-FlyweightPattern.md
+		doc\02-StructureMode\07-ProxyPattern.md = doc\02-StructureMode\07-ProxyPattern.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-BehaviorMode", "03-BehaviorMode", "{A94EA27B-F3CE-4513-983B-32E68BA80D96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,5 +133,8 @@ Global
 		{225387EB-E042-4406-8B88-F9B2F3D365D5} = {C3C55EC4-14B2-4B25-9ECB-97DE0D0B329C}
 		{781483D6-32D2-4A0C-BDAE-DA767F0D2272} = {C3C55EC4-14B2-4B25-9ECB-97DE0D0B329C}
 		{FE38249C-8A39-40A3-AFE9-0336667E689C} = {C3C55EC4-14B2-4B25-9ECB-97DE0D0B329C}
+		{11452670-9D24-4EBA-AAAA-E9691BC9D3B7} = {2D6435F2-4355-4F76-9CAA-7C3C47AD0CB5}
+		{4F734F9B-A1D8-4C84-BF1A-1F861370E994} = {2D6435F2-4355-4F76-9CAA-7C3C47AD0CB5}
+		{A94EA27B-F3CE-4513-983B-32E68BA80D96} = {2D6435F2-4355-4F76-9CAA-7C3C47AD0CB5}
 	EndGlobalSection
 EndGlobal
