@@ -31,14 +31,14 @@ The structural pattern focuses on the combination of classes and objects, and ai
 ## Behavioral pattern
 The behavioral pattern focuses on communication and assignment of responsibilities between objects and aims to make interactions between objects more flexible and extensible. These patterns include:
 
-1. Chain of Responsibility: A chain of recipient objects is created for a request so that multiple objects have the opportunity to process the request.
-2. Command: Encapsulates requests into objects, allowing you to parameterize clients with different requests.
+1. [Chain of Responsibility](./doc/03-BehavioralMode/01-ChainOfResponsibilityPattern.md): A chain of recipient objects is created for a request so that multiple objects have the opportunity to process the request.
+2. [Command](./doc/03-BehavioralMode/02-CommandPattern.md): Encapsulates requests into objects, allowing you to parameterize clients with different requests.
 3. Interpreter: Given a language, define a representation of its grammar and define an interpreter that uses that representation to interpret sentences in the language.
-4. Iterator: Provides a way to access the elements of an aggregate object sequentially without exposing the internal representation of the object.
-5. Mediator: A mediator object is used to encapsulate the interaction of a series of objects, and the mediator makes the objects do not need to explicitly reference each other, so that the coupling is loose, and the interaction between them can be changed independently.
-6. Memento: Captures the internal state of an object without breaking the encapsulation, and saves this state outside the object.
-7. Observer: Define a one-to-many dependency relationship between objects, when an object's state changes, all the objects that depend on it are notified and automatically updated.
-8. State: Allows an object to change its behavior when its internal state changes, and the object appears to modify its class.
-9. Strategy: Define a series of algorithms, encapsulate them one by one, and make them interchangeable.
-10. Template Method: Define the skeleton of an algorithm in an operation, and defer some steps to the subclass, so that the subclass can redefine some specific steps of the algorithm without changing the structure of the algorithm.
-11. Visitor: Represents an operation on elements of an object structure that allows you to define new operations on those elements without changing their class.
+4. [Iterator](./doc/03-BehavioralMode/04-IteratorPattern.md): Provides a way to access the elements of an aggregate object sequentially without exposing the internal representation of the object.
+5. [Mediator](./doc/03-BehavioralMode/05-MediatorPattern.md): A mediator object is used to encapsulate the interaction of a series of objects, and the mediator makes the objects do not need to explicitly reference each other, so that the coupling is loose, and the interaction between them can be changed independently.
+6. [Memento](./doc/03-BehavioralMode/06-MementoPattern.md): Captures the internal state of an object without breaking the encapsulation, and saves this state outside the object.
+7. [Observer](./doc/03-BehavioralMode/07-ObserverPattern.md): Define a one-to-many dependency relationship between objects, when an object's state changes, all the objects that depend on it are notified and automatically updated.
+8. [State](./doc/03-BehavioralMode/08-StatePattern.md): Allows an object to change its behavior when its internal state changes, and the object appears to modify its class.
+9. [Strategy](./doc/03-BehavioralMode/09-StrategyPattern.md): Define a series of algorithms, encapsulate them one by one, and make them interchangeable.
+10. [Template Method](./doc/03-BehavioralMode/10-TemplateMethodPattern.md): Define the skeleton of an algorithm in an operation, and defer some steps to the subclass, so that the subclass can redefine some specific steps of the algorithm without changing the structure of the algorithm.
+11. [Visitor](./doc/03-BehavioralMode/11-VisitorPattern.md): Represents an operation on elements of an object structure that allows you to define new operations on those elements without changing their class.
