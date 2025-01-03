@@ -58,6 +58,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-StructureMode", "02-Stru
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-BehaviorMode", "03-BehaviorMode", "{A94EA27B-F3CE-4513-983B-32E68BA80D96}"
+	ProjectSection(SolutionItems) = preProject
+		doc\03-BehavioralMode\01-ChainOfResponsibilityPattern.md = doc\03-BehavioralMode\01-ChainOfResponsibilityPattern.md
+		doc\03-BehavioralMode\02-CommandPattern.md = doc\03-BehavioralMode\02-CommandPattern.md
+		doc\03-BehavioralMode\03-InterpreterPattern.md = doc\03-BehavioralMode\03-InterpreterPattern.md
+		doc\03-BehavioralMode\04-IteratorPattern.md = doc\03-BehavioralMode\04-IteratorPattern.md
+		doc\03-BehavioralMode\05-MediatorPattern.md = doc\03-BehavioralMode\05-MediatorPattern.md
+		doc\03-BehavioralMode\06-MementoPattern.md = doc\03-BehavioralMode\06-MementoPattern.md
+		doc\03-BehavioralMode\07-ObserverPattern.md = doc\03-BehavioralMode\07-ObserverPattern.md
+		doc\03-BehavioralMode\08-StatePattern.md = doc\03-BehavioralMode\08-StatePattern.md
+		doc\03-BehavioralMode\09-StrategyPattern.md = doc\03-BehavioralMode\09-StrategyPattern.md
+		doc\03-BehavioralMode\10-TemplateMethodPattern.md = doc\03-BehavioralMode\10-TemplateMethodPattern.md
+		doc\03-BehavioralMode\11-VisitorPattern.md = doc\03-BehavioralMode\11-VisitorPattern.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_ChainOfResponsibilityPattern", "src\03-BehaviorMode\01_ChainOfResponsibilityPattern\01_ChainOfResponsibilityPattern.csproj", "{B44B51D8-99FF-4539-AC33-7BB08892E6B3}"
 EndProject
