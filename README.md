@@ -1,7 +1,13 @@
 # Introduction
 
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)]([https://gitlab.aiursoft.cn/aiursoft/tracer/-/blob/master/](https://github.com/Tangtang1997/DesignPatterns/edit/master/)LICENSE)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Tangtang1997/DesignPatterns/edit/master/LICENSE)
 [![GitHub Actions](https://github.com/Tangtang1997/DesignPatterns/workflows/.NET/badge.svg)](https://github.com/Tangtang1997/DesignPatterns/actions)
+[![GitHub release](https://img.shields.io/github/release/Tangtang1997/DesignPatterns.svg)](https://github.com/Tangtang1997/DesignPatterns/releases)
+[![GitHub contributors](https://img.shields.io/github/contributors/Tangtang1997/DesignPatterns.svg)](https://github.com/Tangtang1997/DesignPatterns/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Tangtang1997/DesignPatterns.svg)](https://github.com/Tangtang1997/DesignPatterns/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Tangtang1997/DesignPatterns.svg)](https://github.com/Tangtang1997/DesignPatterns)
+[![GitHub language count](https://img.shields.io/github/languages/count/Tangtang1997/DesignPatterns.svg)](https://github.com/Tangtang1997/DesignPatterns)
+[![GitHub top language](https://img.shields.io/github/languages/top/Tangtang1997/DesignPatterns.svg)](https://github.com/Tangtang1997/DesignPatterns)
 
 In the world of software development, design patterns are a proven solution to common design problems. They not only improve the maintainability and extensibility of the code, but also enable developers to do their development work more efficiently. Design patterns provide a standardized approach to solving the problem of duplication in software design, allowing developers to focus more on the implementation of business logic rather than reinventing the wheel.
 
