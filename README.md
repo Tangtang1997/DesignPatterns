@@ -1,4 +1,7 @@
 # Introduction
+
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)]([https://gitlab.aiursoft.cn/aiursoft/tracer/-/blob/master/](https://github.com/Tangtang1997/DesignPatterns/edit/master/)LICENSE)
+
 In the world of software development, design patterns are a proven solution to common design problems. They not only improve the maintainability and extensibility of the code, but also enable developers to do their development work more efficiently. Design patterns provide a standardized approach to solving the problem of duplication in software design, allowing developers to focus more on the implementation of business logic rather than reinventing the wheel.
 
 The concept of design patterns was first proposed by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides in their book Design Patterns: The Foundations of Reusable Object-Oriented Software. This book summarizes 23 classic design patterns and classifies them into three broad categories: creative, structural, and behavioral patterns.
