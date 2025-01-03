@@ -1,7 +1,7 @@
 # Introduction
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)]([https://gitlab.aiursoft.cn/aiursoft/tracer/-/blob/master/](https://github.com/Tangtang1997/DesignPatterns/edit/master/)LICENSE)
-[![GitHub Actions](https://github.com/Tangtang1997/DesignPatterns/workflows/dotnet/badge.svg)](https://github.com/Tangtang1997/DesignPatterns/actions)
+[![GitHub Actions](https://github.com/Tangtang1997/DesignPatterns/workflows/.NET/badge.svg)](https://github.com/Tangtang1997/DesignPatterns/actions)
 
 In the world of software development, design patterns are a proven solution to common design problems. They not only improve the maintainability and extensibility of the code, but also enable developers to do their development work more efficiently. Design patterns provide a standardized approach to solving the problem of duplication in software design, allowing developers to focus more on the implementation of business logic rather than reinventing the wheel.
 
