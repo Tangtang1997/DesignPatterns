@@ -2,13 +2,13 @@
 
 public class Computer
 {
-    public string CPU { get; set; }
-    public string GPU { get; set; }
-    public string RAM { get; set; }
-    public string Storage { get; set; }
+    public string Cpu { get; set; } = string.Empty;
+    public string Gpu { get; set; } = string.Empty;
+    public string Ram { get; set; } = string.Empty;
+    public string Storage { get; set; } = string.Empty;
 
     public override string ToString()
     {
-        return $"CPU: {CPU}, GPU: {GPU}, RAM: {RAM}, Storage: {Storage}";
+        return $"CPU: {Cpu}, GPU: {Gpu}, RAM: {Ram}, Storage: {Storage}";
     }
 }

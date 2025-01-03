@@ -6,17 +6,17 @@ public class GamingComputerBuilder : IComputerBuilder
 
     public void BuildCPU()
     {
-        _computer.CPU = "High-end CPU";
+        _computer.Cpu = "High-end CPU";
     }
 
     public void BuildGPU()
     {
-        _computer.GPU = "High-end GPU";
+        _computer.Gpu = "High-end GPU";
     }
 
     public void BuildRAM()
     {
-        _computer.RAM = "16GB RAM";
+        _computer.Ram = "16GB RAM";
     }
 
     public void BuildStorage()

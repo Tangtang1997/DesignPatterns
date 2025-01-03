@@ -6,17 +6,17 @@ public class OfficeComputerBuilder : IComputerBuilder
 
     public void BuildCPU()
     {
-        _computer.CPU = "Mid-range CPU";
+        _computer.Cpu = "Mid-range CPU";
     }
 
     public void BuildGPU()
     {
-        _computer.GPU = "Integrated GPU";
+        _computer.Gpu = "Integrated GPU";
     }
 
     public void BuildRAM()
     {
-        _computer.RAM = "8GB RAM";
+        _computer.Ram = "8GB RAM";
     }
 
     public void BuildStorage()
